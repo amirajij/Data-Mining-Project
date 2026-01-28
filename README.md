@@ -24,7 +24,6 @@ Goal: Define the impact of churn on revenue and identify key metrics for custome
 We performed deep Exploratory Data Analysis to find correlations.
 * **Key Insight:** Identifying which features (e.g., Support Calls, Usage Frequency) are most correlated with the target variable `Churn`.
 
-**Visual Example:**
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ### 3. Data Preparation
@@ -41,7 +40,6 @@ We implemented and compared Machine Learning models, with a focus on:
 The model was evaluated using Confusion Matrices and Classification Reports.
 * **Result:** The model successfully identifies high-risk segments, allowing for proactive intervention.
 
-**Model Performance:**
 ![Confusion Matrix](confusion_matrix.png)
 
 ## Strategic Recommendations
