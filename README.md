@@ -41,6 +41,9 @@ We implemented and compared Machine Learning models, with a focus on:
 The model was evaluated using Confusion Matrices and Classification Reports.
 * **Result:** The model successfully identifies high-risk segments, allowing for proactive intervention.
 
+**Model Performance:**
+![Confusion Matrix](confusion_matrix.png)
+
 ## Strategic Recommendations
 Based on the findings, we proposed a segmented retention plan:
 - **High Risk (> 0.7):** Proactive contact by the Customer Success team and special offers.
